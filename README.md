@@ -7,14 +7,14 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Murad</h1></summary>
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Ramazan</h1></summary>
   </ul>
 </div>
 
 
 <!--- snake -->
 <div align="center">
-  <a href="https://github.com/mlalayev">
+  <a href="https://github.com/ramazanismayilov">
     <img src="/snake.svg" alt="snake">
   </a>
 </div>
@@ -29,13 +29,11 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **React, React Native, NodeJS, JavaScript, TypeScript**
+- 🔭 I’m currently working on **React, Angular, NodeJS, ExpressJs, NestJs, TypeScript**
 
-- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
+- 💬 Ask me about **React, Angular, NodeJS, ExpressJs, NestJs, TypeScript**
 
-- 💬 Ask me about **React, react-native, NodeJS, TypeScript, JavaScript**
-
-- 📫 Feel free to reach me out **lalayevmurad@gmail.com**
+- 📫 Feel free to reach me out **ramazanismayilovh@gmail.com**
 
 - 🏠 Don't hesitate to drop me a **👋**
 <!--Intro end-->
