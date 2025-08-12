@@ -17,7 +17,7 @@ jobs:
           outputs: dist/snake.svg
 
       - name: Upload snake.svg artifact (optional, yoxlamaq üçün)
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4   
         with:
           name: snake-svg
           path: dist/snake.svg
