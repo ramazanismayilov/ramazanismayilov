@@ -1,6 +1,3 @@
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
@@ -66,6 +63,9 @@
     <img src="https://skillicons.dev/icons?i=nodejs,py,react,tailwind,vscode&perline=5" />
   </a>
 </p>
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!--- snake -->
 <div align="center">
