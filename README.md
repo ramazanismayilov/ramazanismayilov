@@ -62,7 +62,6 @@
 
 <!--- snake -->
 <div align="center">
-  <a href="https://github.com/ramazanismayilov">
-    <img src="/snake.svg" alt="snake">
-  </a>
+  <img src="https://raw.githubusercontent.com/ramazanismayilov/ramazanismayilov/output/snake.svg" alt="Snake animation" />
 </div>
+
