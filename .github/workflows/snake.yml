@@ -14,17 +14,17 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: ramazanismayilov
-          outputs: dist/snake.svg
+          outputs: snake.svg
 
       - name: Upload snake.svg artifact (optional, yoxlamaq üçün)
         uses: actions/upload-artifact@v4   
         with:
           name: snake-svg
-          path: dist/snake.svg
+          path: snake.svg
 
       - name: Push to output branch
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_branch: output
-          publish_dir: dist
+          publish_dir: .
