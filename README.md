@@ -28,8 +28,6 @@
 - 💬 Ask me about **React, Angular, NodeJS, ExpressJs, NestJs, TypeScript**
 
 - 📫 Feel free to reach me out **ramazanismayilovh@gmail.com**
-
-- 🏠 Don't hesitate to drop me a **👋**
 <!--Intro end-->
 
 <!--- stats & Trophy (start) -->
