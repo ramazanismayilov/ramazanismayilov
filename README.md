@@ -8,13 +8,6 @@
   </ul>
 </div>
 
-<!--- snake -->
-<div align="center">
-  <a href="https://github.com/ramazanismayilov">
-    <img src="/snake.svg" alt="snake">
-  </a>
-</div>
-
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
@@ -73,6 +66,13 @@
     <img src="https://skillicons.dev/icons?i=nodejs,py,react,tailwind,vscode&perline=5" />
   </a>
 </p>
+
+<!--- snake -->
+<div align="center">
+  <a href="https://github.com/ramazanismayilov">
+    <img src="/snake.svg" alt="snake">
+  </a>
+</div>
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
