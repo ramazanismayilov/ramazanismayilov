@@ -62,6 +62,6 @@
 
 <!--- snake -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ramazanismayilov/ramazanismayilov/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/ramazanismayilov/ramazanismayilov/main/snake.svg" alt="Snake animation" />
 </div>
  
