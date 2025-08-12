@@ -16,7 +16,7 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: ramazanismayilov
-          outputs: dist/snake.svg
+          outputs: snake.svg
 
       - name: Push to GitHub
         uses: EndBug/add-and-commit@v9
