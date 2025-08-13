@@ -65,3 +65,4 @@
   <img src="https://github.com/ramazanismayilov/ramazanismayilov/output/snake.svg" alt="Snake animation" />
 </div>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ramazanismayilov&label=Profile%20views&color=0e75b6&style=flat" alt="ramazanismayilov" /> </p>
