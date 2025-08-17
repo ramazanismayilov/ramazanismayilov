@@ -51,7 +51,38 @@
 </div>
 <!--tech stack icons-->
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,angular,ts,nodejs,express,nestjs&perline=11" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://skillicons.dev/icons?i=html" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://skillicons.dev/icons?i=css" />
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=tailwind" />
+  </a>
+  <a href="https://getbootstrap.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=bootstrap" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://skillicons.dev/icons?i=js" />
+  </a>
+  <a href="https://react.dev/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=react" />
+  </a>
+  <a href="https://angular.io/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=angular" />
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=ts" />
+  </a>
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=nodejs" />
+  </a>
+  <a href="https://expressjs.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=express" />
+  </a>
+  <a href="https://nestjs.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=nestjs" />
   </a>
 </p>
+
