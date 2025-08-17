@@ -55,14 +55,3 @@
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,angular,ts,nodejs,express,nestjs&perline=11" />
   </a>
 </p>
-
-
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!--- snake -->
-<div align="center">
-  <img src="https://github.com/ramazanismayilov/ramazanismayilov/output/snake.svg" alt="Snake animation" />
-</div>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ramazanismayilov&label=Profile%20views&color=0e75b6&style=flat" alt="ramazanismayilov" /> </p>
