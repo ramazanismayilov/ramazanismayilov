@@ -6,7 +6,7 @@
 </div>
 
 <!--Intro start-->
-- 🔭 I’m currently working on **React, Angular, NodeJS, ExpressJs, NestJs, TypeScript**
+- 🔭 I’m currently working on **Angular**
 
 - 💬 Ask me about **React, Angular, NodeJS, ExpressJs, NestJs, TypeScript**
 
